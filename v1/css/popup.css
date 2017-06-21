@@ -1,0 +1,23 @@
+.bounding-box{
+	position: fixed;
+	text-align: center;
+	background: #fff;
+	box-shadow: 0 6px 30px rgba(0,0,0,.3);
+	border-radius: 4px;
+	border: 1px solid #444;
+	overflow-x: hidden;
+}
+.bounding-box button{
+	display: block;
+	margin: 0 auto;
+	width: 5em;
+}
+.bounding-box .title{
+	background: #333;
+	color: #eee;
+	font-weight: bold;
+	padding: .5em 0;
+}
+.bounding-box .content{
+	padding: 50px 0;
+}
